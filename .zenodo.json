@@ -1,0 +1,13 @@
+{
+    "title": "OGGM-Edu - Jupyter notebooks to learn and teach about glaciers",
+    "creators": [
+             {"name": "Fabien Maussion", "affiliation": "University of Innsbruck",  "orcid": "0000-0002-3211-506X"},
+    {"name": "Erik Holmgren", "affiliation": "University of Innsbruck"},
+    {"name": "Lindsey Nicholson", "affiliation": "University of Innsbruck",  "orcid": "0000-0003-0430-7950"},
+    {"name": "Lizz Ultee", "affiliation": "Georgia Tech", "email": "eultee3@gatech.edu", "orcid": "0000-0002-8780-3089"},
+    {"name": "Zora Schirmeister", "affiliation": "University of Innsbruck" },
+    {"name": "Patrick Schmitt", "affiliation": "University of Innsbruck" },
+    {"name": "Lilian Schuster", "affiliation": "University of Innsbruck",  "orcid": "0000-0003-2101-2070"}
+    ],
+    "keywords": ["glaciers", "climate", "education", "python", "numerical model"]
+}
