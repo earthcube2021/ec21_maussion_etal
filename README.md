@@ -1,5 +1,10 @@
 # OGGM-edu EarthCube notebook
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496338.svg)](https://doi.org/10.5281/zenodo.5496338)
+
+
 [OGGM-Edu](http://edu.oggm.org) is an educational platform about glaciers, powered by [OGGM](https://oggm.org) and [MyBinder](https://mybinder.org/).
 
 This notebook illustrates how OGGM-Edu can be used to learn and teach about glaciers. It was submitted to and reviewed by the [EarthCube Annual meeting 2021](https://www.orau.gov/2021ECMeeting).
